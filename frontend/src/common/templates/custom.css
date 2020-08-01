@@ -11,3 +11,7 @@ button{
 .table-actions {
     width: 150px;
 }
+
+legend[text='Créditos']{
+    background-color: red;
+}
